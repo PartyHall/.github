@@ -12,7 +12,6 @@ Based around the Raspberry Pi, everything is made to enhance your parties with a
 - [Docs](https://github.com/partyhall/docs)
 - [Appliance software](https://github.com/partyhall/partyhall)
 - [Design material](https://github.com/partyhall/design)
-- [Deployment scripts](https://github.com/partyhall/deploy)
 
 ## License
 

@@ -3,15 +3,13 @@
 PartyHall is a all-in-one device to be used at parties. It features:
 
 - A Photobooth
-- A Quiz system
+- A karaoke machine
 - *More to come*
 
-Based around the Raspberry Pi, everything is made to enhance your parties with a neat appliance helping creating fun memories.
+The goal is to centralize everything to enhance your parties with a neat appliance helping to create fun memories.
 
 ## Links
-- [Docs](https://github.com/partyhall/docs)
 - [Appliance software](https://github.com/partyhall/partyhall)
-- [Design material](https://github.com/partyhall/design)
 
 ## License
 

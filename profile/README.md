@@ -10,6 +10,7 @@ The goal is to centralize everything to enhance your parties with a neat applian
 
 ## Links
 - [Appliance software](https://github.com/partyhall/partyhall)
+- [Hub software](https://github.com/partyhall/partynexus)
 
 ## License
 
